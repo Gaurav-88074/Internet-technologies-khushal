@@ -12,13 +12,3 @@ available to these systems.**
 <p align="center">
 <img src="https://user-images.githubusercontent.com/68191677/193320563-113f9be5-ee2c-477c-9192-cface2354833.png"  />
 </p>
-
-`ping <domain name>`
-<p align="center">
-<img src="https://user-images.githubusercontent.com/68191677/193321453-5f57346f-d2d0-4473-a1de-2f642cf24155.png"  />
-</p>
-
-`tracert <domain name>`
-<p align="center">
-<img src="https://user-images.githubusercontent.com/68191677/193321753-f68da602-ad47-4481-a753-d67a1cb9a6c8.png"  />
-</p>
