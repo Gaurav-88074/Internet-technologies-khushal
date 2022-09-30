@@ -1,4 +1,4 @@
-# PRACTICAL 1
+# PRACTICAL 2
 **With help of ping, check if you are connected to other systems of your network and find the
 route to connect to that system using tracert. List all the processes which are using ports for
 TCP protocol.**
